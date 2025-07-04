@@ -1,1 +1,1 @@
-# board-games-apps
+[Trails Of Tucana Companion](https://lonecubegames.github.io/board-games-apps/trails-of-tucana-companion)
