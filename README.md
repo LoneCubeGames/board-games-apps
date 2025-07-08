@@ -12,7 +12,7 @@
 ---
 
 ### 🗺️ Cartographers Companion  
-[Открыть приложение](https://lonecubegames.github.io/board-games-apps/сartographers-сompanion) | [Wiki](https://github.com/LoneCubeGames/board-games-apps/wiki/Cartographers-Companion)
+[Открыть приложение](https://lonecubegames.github.io/board-games-apps/cartographers-companion) | [Wiki](https://github.com/LoneCubeGames/board-games-apps/wiki/Cartographers-Companion)
 
 ---
 
