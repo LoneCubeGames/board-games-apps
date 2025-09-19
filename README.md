@@ -13,7 +13,7 @@
 | Cartographers    | <img width="120" height="68" alt="Cartographers" src="https://github.com/user-attachments/assets/6841a0df-aea1-46aa-9646-9eb2101ada9f" /> | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/Cartographers-Companion)         | [Открыть](https://lonecubegames.github.io/board-games-apps/cartographers-companion)         | [Скачать](https://github.com/LoneCubeGames/board-games-apps/releases) |
 | Star Realms      | <img width="120" height="68" alt="Star Realms" src="https://github.com/user-attachments/assets/be9a36bb-034e-4015-8c6a-7d5b3fa4b81b" />   | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/Star-Realms-Companion)           | [Открыть](https://lonecubegames.github.io/board-games-apps/star-realms-companion)           | [Скачать](https://github.com/LoneCubeGames/board-games-apps/releases) |
 
-## Поддержать 💖
+## Сказать спасибо 💖
 
 | Ссылка                                                                                                     | QR                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
