@@ -32,9 +32,6 @@
 |--------|-------------|----------|----------------|
 | Rebirth | <img width="68" height="68" alt="Rebirth" src="https://github.com/user-attachments/assets/17167414-e761-4f93-9c04-c2bf0bd829b6" /> | Стратегическая игра о возрождении цивилизации после великого упадка | [Открыть](https://steamcommunity.com/sharedfiles/filedetails/?id=3650680468) |
 
-> Моды предназначены для использования в **Tabletop Simulator**  
-> и **не заменяют оригинальные настольные игры**.
-
 ---
 
 ## ❤️ Поддержка проекта
