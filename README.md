@@ -37,22 +37,6 @@
 
 ---
 
-## 🛠 Технологии
-
-Все проекты разработаны на **Unity** и используют:
-
-- **Архитектура**: Clean Architecture  
-- **DI**: VContainer  
-- **Реактивность**: R3  
-- **Сериализация**: Newtonsoft.Json  
-- **UI**: Unity UI Toolkit  
-- **Локализация**: Unity Localization  
-- **Аналитика**: Unity Services Core  
-- **Ввод**: Unity Input System  
-- **Ресурсы**: Unity Addressables  
-
----
-
 ## ❤️ Поддержка проекта
 
 | Ссылка | QR |
