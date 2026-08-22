@@ -23,7 +23,7 @@
 | Trails of Tucana | <img width="120" height="68" alt="Trails of Tucana" src="https://github.com/user-attachments/assets/e1a0a174-1b65-4a95-b632-092f19673f09" /> | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/Trails-Of-Tucana-Companion) | [Открыть](https://play.unity.com/en/games/ac3a5ecf-c175-4a62-995a-2e845a6283f9/trails-of-tucana-companion) | [Скачать](https://github.com/LoneCubeGames/board-games-apps/releases) |
 | Cartographers | <img width="120" height="68" alt="Cartographers" src="https://github.com/user-attachments/assets/6841a0df-aea1-46aa-9646-9eb2101ada9f" /> | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/Cartographers-Companion) | [Открыть](https://play.unity.com/en/games/6d997506-8642-4355-8f15-9b43c25f5825/cartographers-companion) | [Скачать](https://github.com/LoneCubeGames/board-games-apps/releases) |
 | Star Realms | <img width="120" height="68" alt="Star Realms" src="https://github.com/user-attachments/assets/be9a36bb-034e-4015-8c6a-7d5b3fa4b81b" /> | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/Star-Realms-Companion) | [Открыть](https://play.unity.com/en/games/238e2072-16b3-4913-b810-cbad4ce5dc7e/star-realms-companion) | [Скачать](https://github.com/LoneCubeGames/board-games-apps/releases) |
-| *Coming soon* | — | — | — | — |
+| The Quest For El Dorado | — | [Читать](https://github.com/LoneCubeGames/board-games-apps/wiki/The-Quest-For-El-Dorado-Companion) | — | — |
 
 ---
 
